@@ -2,8 +2,9 @@ package com.company;
 
 import java.util.Scanner;
 
-public class LogIn extends Options {
-    Options options = new Options();
+public class LogIn {
+    Teller teller = new Teller();
+    Customer customer = new Customer();
 
     void LogIn() {
         teller();
@@ -43,19 +44,18 @@ public class LogIn extends Options {
         } else {
             System.out.println("Wrong Password");
         }
-        return password();
+        return password;
     }
 
-    public static String welcomePage() {
-
+    public String welcomePage() {
         System.out.println("Welcome, would you like to view all customers? [Y/N]");
         String viewAll;
         Scanner scanner2 = new Scanner(System.in);
-        viewAll = scanner2.nextLine().toUpperCase();
+        viewAll = scanner2.nextLine();
 
-        if (viewAll.equals("Y")) {
-            checkingOrSavings();
-        } else options();
+        if (viewAll.equalsIgnoreCase("Y")) {
+            teller.checkingOrSavings();
+        } else teller.options();
         return viewAll;
     }
 
