@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="206ec260-cd52-42ef-832d-f524a30b0f16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Teller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BANKTELLER2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Bank_Pursuit_HW_POKORNY_LINDA1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BANKTELLER2/com/company/Checking.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BANKTELLER2/com/company/LogIn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BANKTELLER2/com/company/LogIn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BANKTELLER2/com/company/Options.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Checking.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/LogIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/LogIn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Options.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -156,8 +145,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="150" />
-    <option name="y" value="24" />
+    <option name="x" value="136" />
+    <option name="y" value="23" />
     <option name="width" value="1134" />
     <option name="height" value="773" />
   </component>
@@ -194,7 +183,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541891879480" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541892484345" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -286,9 +275,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="150" y="24" width="1134" height="773" extended-state="0" />
+    <frame x="306" y="23" width="1134" height="773" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.253663" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.253663" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -297,12 +286,12 @@
       <window_info id="Favorites" order="6" sideWeight="0.50089765" side_tool="true" weight="0.19456366" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3274596" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32599118" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32599118" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32892805" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32892805" />
@@ -374,8 +363,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
